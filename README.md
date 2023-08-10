@@ -14,5 +14,6 @@ git commit -m 'guardar cambios'
 git push
 touch privado.txt
 mkdir privada
+crear archivo de textp gitignore 
 
 
