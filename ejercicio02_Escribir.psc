@@ -1,6 +1,12 @@
 Algoritmo ejercicio02
 	//EJERCICIO ESCRIBIR
-	//Escribir un algoritmo en el cual se muestre nuestro nombre completo en la interfaz gr·fica de PseInt. 
+	//Escribir un algoritmo en el cual se muestre nuestro nombre completo en la interfaz gr√°fica de PseInt. 
 
 
 FinAlgoritmo
+
+Algoritmo tiposDeDatos
+
+Definir nombre Como Caracter
+
+nombre = "Natalia Cuentas"
